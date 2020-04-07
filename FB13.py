@@ -44,8 +44,8 @@ logo = """
 |_|  |_|_| \_\/_/\_(_)_|  |_|\___/ \__,_|___/___/\__,_|
  
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92MRX.Mousa
-\033[1;96mYouTube \033[1;93m: \033[1;92FR13NDS DZ
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMRX.Mousa
+\033[1;96mYouTube \033[1;93m: \033[1;92mFR13NDS DZ
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps:github.com/FR13NDS13
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/moussa.zero0
 \033[1;91m======================================="""
@@ -65,14 +65,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92MRX.Mousa
-\033[1;96mYouTube \033[1;93m: \033[1;92FR13NDS DZ
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMRX.Mousa
+\033[1;96mYouTube \033[1;93m: \033[1;92mFR13NDS DZ
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/FR13NDS13
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/moussa.zero0
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "DJDJDJ"
-CorrectPassword = "DJDJDJ"
+CorrectUsername = "mrx"
+CorrectPassword = "0013"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
