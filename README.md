@@ -10,4 +10,4 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone 
+$ git clone https://github.com/FR13NDS13/FR13DS.git
