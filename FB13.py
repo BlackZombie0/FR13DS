@@ -37,17 +37,17 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
- __  __ ____  __  __  __  __                           
-|  \/  |  _ \ \ \/ / |  \/  | ___  _   _ ___ ___  __ _ 
-| |\/| | |_) | \  /  | |\/| |/ _ \| | | / __/ __|/ _` |
-| |  | |  _ <  /  \ _| |  | | (_) | |_| \__ \__ \ (_| |
-|_|  |_|_| \_\/_/\_(_)_|  |_|\___/ \__,_|___/___/\__,_|
+ ____  _   _  ___  _____ _   _ _____  __
+|  _ \| | | |/ _ \| ____| \ | |_ _\ \/ /
+| |_) | |_| | | | |  _| |  \| || | \  / 
+|  __/|  _  | |_| | |___| |\  || | /  \ 
+|_|   |_| |_|\___/|_____|_| \_|___/_/\_\
  
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mMRX.Mousa
-\033[1;96mYouTube \033[1;93m: \033[1;92mFR13NDS DZ
+\033[1;96mAuthor  \033[1;93m: \033[1;92mPhoenix.Mousa
+\033[1;96mYouTube \033[1;93m: \033[1;92mFR13NDS DZ.Jijel
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps:github.com/FR13NDS13
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/moussa.zero0
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/phoenix00i
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -65,10 +65,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mMRX.Mousa
-\033[1;96mYouTube \033[1;93m: \033[1;92mFR13NDS DZ
+\033[1;96mAuthor  \033[1;93m: \033[1;92mPhoenix.Mousa
+\033[1;96mYouTube \033[1;93m: \033[1;92mFR13NDS DZ.Jijel
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/FR13NDS13
-\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/moussa.zero0
+\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/phoenix00i
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 CorrectUsername = "mrx"
@@ -83,10 +83,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/moussa.zero0')
+            os.system('xdg-open https://www.facebook.com/phoenix00i')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/moussa.zero0')
+        os.system('xdg-open https://www.facebook.com/phoenix00i')
 def login():
 	os.system('clear')
 	try:
